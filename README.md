@@ -55,7 +55,12 @@ Shows trends over time across continents.
 
 ## 🖼️ Dashboard Previews
 
-Add more preview images in the `images/` folder and embed them using:
+![image](https://github.com/YusafM/Tableau-Gapminder-Health-Survey/blob/main/Screenshot%202025-06-03%20140112.png)
 
-```markdown
-![Alt Text](images/your_image_name.png)
+![image](https://github.com/YusafM/Tableau-Gapminder-Health-Survey/blob/main/Screenshot%202025-06-03%20144559.png)
+
+![image](https://github.com/YusafM/Tableau-Gapminder-Health-Survey/blob/main/Screenshot%202025-06-03%20144700.png)
+
+![image](https://github.com/YusafM/Tableau-Gapminder-Health-Survey/blob/main/Screenshot%202025-06-03%20144824.png)
+
+![image](https://github.com/YusafM/Tableau-Gapminder-Health-Survey/blob/main/Screenshot%202025-06-03%20144904.png)
