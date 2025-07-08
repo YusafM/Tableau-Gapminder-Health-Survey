@@ -11,6 +11,7 @@ Explores the correlation between average cholesterol levels and life expectancy 
 A color-coded map comparing average blood pressure levels globally.
 
 **Sample UI:**
+
 ![Blood Pressure Filter](https://github.com/YusafM/Tableau-Gapminder-Health-Survey/blob/main/Screenshot%202025-06-03%20140112.png)
 
 - Green indicates lower average blood pressure.
